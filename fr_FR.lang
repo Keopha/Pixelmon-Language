@@ -236,6 +236,19 @@ item.Qualot Berry.name=Baie Qualot
 item.Hondew Berry.name=Baie Lonme
 item.Grepa Berry.name=Baie Resin
 item.Tamato Berry.name=Baie Tamato
+item.ApicotBerry.name=Baie Abriko
+item.LiechiBerry.name=Baie Lichii
+item.GanlonBerry.name=Baie Lingan
+item.SalacBerry.name=Baie Sailak
+item.PetayaBerry.name=Baie Pitaye
+item.LansatBerry.name=Baie Lansat
+item.StarfBerry.name=Baie Frista
+item.AguavBerry.name=Baie Gowav
+item.FigBerry.name=Baie Figuy
+item.IapapaBerry.name=Baie Papaya
+item.MagoBerry.name=Baie Mago
+item.WikiBerry.name=Baie Wiki
+
 item.Heal Powder.name=Poudre Soin
 item.Energy Powder.name=Poudrénergie
 item.Energy Root.name=Racinénergie
@@ -370,6 +383,25 @@ item.Steel Gem.name=Joyau Acier
 item.Water Gem.name=Joyau Eau
 item.Fairy Gem.name=Joyau Fée
 
+item.Bug Gem.special=Joyau Insecte Sacré
+item.Dark Gem.special=Joyau Ténèbres Sacré
+item.Dragon Gem.special=Joyau Dragon Sacré
+item.Electric Gem.special=Joyau Électrique Sacré
+item.Fighting Gem.special=Joyau Combat Sacré
+item.Fire Gem.special=Joyau Feu Sacré
+item.Flying Gem.special=Joyau Vol Sacré
+item.Ghost Gem.special=Joyau Spectre Sacré
+item.Grass Gem.special=Joyau Plante Sacré
+item.Ground Gem.special=Joyau Sol Sacré
+item.Ice Gem.special=Joyau Glace Sacré
+item.Normal Gem.special=Joyau Normal Sacré
+item.Poison Gem.special=Joyau Poison Sacré
+item.Psychic Gem.special=Joyau Psy Sacré
+item.Rock Gem.special=Joyau Roc Sacré
+item.Steel Gem.special=Joyau Acier Sacré
+item.Water Gem.special=Joyau Eau Sacré
+item.Fairy Gem.special=Joyau Fée Sacré
+
 item.BlackBelt.name=Ceinture Noire
 item.BlackGlasses.name=Lunettes Noires
 item.Charcoal.name=Charbon
@@ -391,6 +423,8 @@ item.destinyKnot.name=Nœud Destin
 
 item.chisel.name=Cisaille
 item.ranchupgrade.name=Amélioration de Ranch
+item.hourglassgold.name=Sablier en Or d'Isi
+item.hourglasssilver.name=Sablier en Argent d'Isi
 
 item.TM1 - Hone Claws.name= CT1: Aiguisage
 item.TM1 - Wide Guard.name= CT1: Garde Large
@@ -4054,6 +4088,7 @@ pixelmon.command.heal.healed=Soin des Pokémons de %s réussi !
 pixelmon.command.heal.notifyhealed=%s a soigné les Pokémons de %s avec succès !
 pixelmon.command.spawn.spawned=Invocation de %s réalisée avec succès !
 pixelmon.command.spawn.spawnednotify=%s a invoqué un %s avec succès !
+pixelmon.command.unlock=%s vérouillé a été déverouillé avec succès !
 
 //other
 pixelmon.drops.fullinventory=Votre inventaire est complet! %s a été déposé au sol!
@@ -4283,8 +4318,9 @@ gui.trading.trade=Échanger
 
 gui.pokedex.pokedex=Pokédex
 gui.pokedex.height=Hauteur: 
-gui.pokedex.more=Plus...
 gui.pokedex.weight=Poids:
+gui.pokedex.more=Plus...
+
 
 gui.pokedexoptions.done=Fait.
 gui.pokedexoptions.options=Options du Pokédex
@@ -4409,7 +4445,8 @@ gui.update.text=Mettre à Jour
 gui.label.text=Label
 gui.save.text=Sauvegarder
 gui.texture.text=Texture
-gui.cancel.text=Annuler 
+gui.cancel.text=Annuler
+gui.description.text=Description
 
 enum.aggro.timid=Timide
 enum.aggro.default=Défaut
@@ -4494,7 +4531,9 @@ gui.ranch.extendminusx=-X
 gui.ranch.extendplusz=+Z
 gui.ranch.extendminusz=-Z
 gui.ranch.extendTitle=Etendre la zone d'élevage
-gui.ranch.empty=Il n'y a pas de pokemon dans le ranch
+gui.ranch.empty=Il n'y a pas de pokemon dans le ranch.
+ranch.hourglass.upgradedall=Tout les pokemon d'élevage ont augmenté d'un niveau de reproduction.
+ranch.hourglass.upgrade=%s a augmenté d'un niveau de reproduction.
 
 attack.category.physical=Physique
 attack.category.special=Spécial
@@ -4608,6 +4647,7 @@ sendpixelmon.retrieved=Vous rappelez %s!
 *   standing for its name.
 */
 tile.anvil.name=Enclume
+tile.MechanicalAnvil.name=Enclume Mécanique
 tile.pc.name=PC
 tile.mossy rock.name=Pierre Moussue
 tile.icy rock.name=Pierre Gelée
@@ -5045,12 +5085,15 @@ ability.ZenMode.description=Transforme le Pokémon dans les moments délicats.
 ability.ComingSoon.name=A venir !
 ability.ComingSoon.description=Ce talent n'a pas encore été codé. Mais il le sera bientôt !
 
+// Add key names from options menu
+
 key.categories.pixelmon=Pixelmon
 key.descend=Descendre
 key.nextpokemon=Pokemon Suivant
 key.previouspokemon=Pokemon Précédent
 key.sendpokemon=Envoyer son Pokemon
 key.minmaxoverlay=Redimensionner l'Overlay
+key.pokemonaction=Sélectionner le Pixelmon ciblé
 
 pixelmon.abilities.moxieboost=Impudence de %s augmente son attaque !
 pixelmon.abilities.moxiemax=Impudence de %s ne peut plus augmenter son attaque !
