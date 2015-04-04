@@ -1,5 +1,5 @@
 /*
-*	Latest translation 6th march of 2015
+*	Latest translation 4th April of 2015
 *   @Author AnDwHaT5
 *	Liste de gens ayant aidé à la correction de ma traduction:
 *	-Souvtorpixel
@@ -357,6 +357,18 @@ item.FocusBand.name=Bandeau
 item.ToxicOrb.name=Orbe Toxic
 item.FlameOrb.name=Orbe Flamme
 item.BlackSludge.name=Boue Noire
+item.ShedShell.name=Carapace Mue
+item.DampRock.name=Roche Humide
+item.HeatRock.name=Roche Chaude
+item.IcyRock.name=Roche Glace
+item.SmoothRock.name=Roche Lisse
+item.Eviolite.name=Évoluroc
+item.LightBall.name=Balle Lumière
+item.LuckyPunch.name=Poing Chance
+item.MetalPowder.name=Poudre Métal
+item.QuickPowder.name=Poudre Vite
+item.Stick.name=Bâton
+item.ThickClub.name=Masse Os
 
 item.X Attack.name=Attaque +
 item.X Defence.name=Défense +
