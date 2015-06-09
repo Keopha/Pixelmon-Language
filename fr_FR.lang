@@ -1,5 +1,5 @@
 /*
-*	Latest translation 25th May of 2015
+*	Latest translation 09th June of 2015
 *   @Author AnDwHaT5
 *	Liste de gens ayant aidé à la correction de ma traduction:
 *	-Souvtorpixel
@@ -32,7 +32,6 @@ item.Fossil Machine Tank.name=Réservoir de machine à fossile
 item.Fossil Machine Display.name=Écran de machine à fossile
 item.Fossil Machine Top.name=Haut de machine à fossile
 item.Fossil Machine Base.name=Base de machine à fossile
-
 item.Uno Shrine.name=Totem Glacé
 item.Dos Shrine.name=Totem Électrique
 item.Tres Shrine.name=Totem Enflammé
@@ -45,7 +44,6 @@ item.Fossil Cleaner.name=Nettoyeur de fossile
  item.HiddenWoodenDoor.name=Porte en Bois Invisible
 +item.HiddenPressurePlate.name=Plaque de Pression Invisible
 item.Pokedex.name=Pokédex
-
 item.Wood Hammer.name=Marteau en Bois
 item.Stone Hammer.name=Marteau en Pierre
 item.Iron Hammer.name=Marteau en Fer
@@ -57,7 +55,6 @@ item.Aluminium Spade.name=Pelle en Aluminium
 item.Aluminium PickAxe.name=Pioche en Aluminium
 item.Aluminium Hoe.name=Houe en Aluminium
 item.Wailmer Pail.name=Seau Wailmer
-
 item.Trainer Editor.name=Éditeur de Dresseur
 item.Aluminium Sword.name=Épée en Aluminium
 item.Aluminium Helmet.name=Casque en Aluminium
@@ -66,27 +63,22 @@ item.Aluminium Leggings.name=Jambières en Aluminium
 item.Aluminium Boots.name=Bottes en Aluminium
 item.New Running Boots.name=Nouvelles Chaussures de Course
 item.Old Running Boots.name=Vieilles Chaussures de Course
-
 item.Aluminium Ingot.name=Lingot d'Aluminium
 item.Aluminium Plate.name=Plaque d'Aluminium
 item.Old Rod.name=Canne
 item.Good Rod.name=Super Canne
 item.Super Rod.name=Mega Canne
-
 item.Trade Monitor.name=Écran de Machine à Échange
 item.Trade Holder Right.name=Support droit de Machine à Échange
 item.Trade Holder Left.name=Support gauche de Machine à Échange
 item.Trade Panel.name=Écran de Machine à Échange
-
 item.mysteryDungeonMap.name=Carte de Donjons Mystérieux
 item.Uno Orb.name=Orbe d'âme de Glace
 item.Dos Orb.name=Orbe d'âme Électrique
 item.Tres Orb.name=Orbe d'âme de Flamme
-
 item.Orb.name=Orbe
 itemGroup.tabPokeLoot=PokéButin
 item.itemFinder.name=Cherch'Objet
-
 item.Poke Ball.name=Poke Ball
 item.Great Ball.name=Super Ball
 item.Ultra Ball.name=Hyper Ball
@@ -113,7 +105,6 @@ item.Sport Ball.name=Compét Ball
 item.Cherish Ball.name=Mémoire Ball
 item.Premier Ball.name=Honor Ball
 item.GS Ball.name=GS Ball
-
 item.Poke Ball Lid.name=Haut de Poke Ball
 item.Great Ball Lid.name=Haut de Super Ball
 item.Ultra Ball Lid.name=Haut d'Hyper Ball
@@ -136,7 +127,6 @@ item.Premier Ball Lid.name=Haut d'Honor Ball
 item.Quick Ball Lid.name=Haut de Rapide Ball
 item.Lure Ball Lid.name=Haut d'Appât Ball
 item.Sport Ball Lid.name=Haut Compét Ball
-
 item.Poke Ball Disc.name=Disque de Poke Ball
 item.Great Ball Disc.name=Disque de Super Ball
 item.Ultra Ball Disc.name=Disque d'Hyper Ball
@@ -163,7 +153,6 @@ item.Iron Disc.name=Disque de Fer
 item.Iron Base.name=Base en Fer
 item.Aluminum Disc.name=Disque d'Aluminium
 item.Aluminum Base.name=Base en Aluminium
-
 item.Balance Badge.name=Badge Balancier
 item.Beacon Badge.name=Badge Phare
 item.Boulder Badge.name=Badge Rocher
@@ -229,7 +218,6 @@ item.Awakening.name=Réveil
 item.Burn Heal.name=Anti-Brûle
 item.Ice Heal.name=Antigel
 item.Full Heal.name=Total Soin
-
 item.Blue Flute.name=Flûte Bleue
 item.Yellow Flute.name=Flûte Jaune
 item.Red Flute.name=Flûte Rouge
@@ -240,12 +228,29 @@ item.Iron.name=Fer
 item.Calcium.name=Calcium
 item.Zinc.name=Zinc
 item.Carbos.name=Carbone
+
 item.Pomeg Berry.name=Baie Grena
 item.Kelpsy Berry.name=Baie Alga
 item.Qualot Berry.name=Baie Qualot
 item.Hondew Berry.name=Baie Lonme
 item.Grepa Berry.name=Baie Resin
 item.Tamato Berry.name=Baie Tamato
+item.Oran Berry.name=Baie Oran
+item.Rawst Berry.name=Baie Fraive
+item.Leppa Berry.name=Baie Mepo
+item.CheriBerry.name=Baie Ceriz
+item.ChestoBerry.name=Baie Maron
+item.PechaBerry.name=Baie Pêcha
+item.AspearBerry.name=Baie Willia
+item.PersimBerry.name=Baie Kika
+item.LumBerry.name=Baie Prine
+item.SitrusBerry.name=Baie Sitrus
+item.BerryJuice.name=Jus de Baie
+item.PumkinBerry.name=Baie Pumkin
+item.DrashBerry.name=Baie Drash
+item.EggantBerry.name=Baie Eggant
+item.YagoBerry.name=Baie Yago
+item.TougaBerry.name=Baie Touga
 item.ApicotBerry.name=Baie Abriko
 item.LiechiBerry.name=Baie Lichii
 item.GanlonBerry.name=Baie Lingan
@@ -253,6 +258,7 @@ item.SalacBerry.name=Baie Sailak
 item.PetayaBerry.name=Baie Pitaye
 item.LansatBerry.name=Baie Lansat
 item.StarfBerry.name=Baie Frista
+item.CustapBerry.name=Custap Berry
 item.AguavBerry.name=Baie Gowav
 item.FigBerry.name=Baie Figuy
 item.IapapaBerry.name=Baie Papaya
@@ -275,12 +281,10 @@ item.HabanBerry.name=Baie Fraigo
 item.ColburBerry.name=Baie Lampou
 item.BabiriBerry.name=Baie Babiri
 item.ChilanBerry.name=Baie Zalis
-
 item.Heal Powder.name=Poudre Soin
 item.Energy Powder.name=Poudrénergie
 item.Energy Root.name=Racinénergie
 item.Revival Herb.name=Herbe Rappel
-
 item.spawnGrotto.name=Spawner à Antre Caché
 item.Mossy Rock.name=Pierre Moussue
 item.Icy Rock.name=Pierre Glacée
@@ -298,7 +302,6 @@ item.Cooked Blue Apricorn.name=Noigrume Bleue Cuite
 item.Cooked Yellow Apricorn.name=Noigrume Jaune Cuite
 item.Cooked Pink Apricorn.name=Noigrume Rose Cuite
 item.Cooked Red Apricorn.name=Noigrume Rouge Cuite
-
 item.HelixFossil.name=Nautile
 item.DomeFossil.name=Fossile Dôme
 item.OldAmber.name=Vieil Ambre
@@ -308,7 +311,6 @@ item.SkullFossil.name=Fossile Crâne
 item.ArmorFossil.name=Fossile Armure
 item.CoverFossil.name=Fossile Plaque
 item.PlumeFossil.name=Fossile Plume
-
 item.coveredFossil0.name=Fossile à Nettoyer
 item.coveredFossil1.name=Fossile à Nettoyer
 item.coveredFossil2.name=Fossile à Nettoyer
@@ -318,27 +320,28 @@ item.coveredFossil5.name=Fossile à Nettoyer
 item.coveredFossil6.name=Fossile à Nettoyer
 item.coveredFossil7.name=Fossile à Nettoyer
 item.coveredFossil8.name=Fossile à Nettoyer
-
 item.Sun Stone.name=Pierre Soleil
 item.Fire Stone.name=Pierre Feu
 item.Water Stone.name=Pierre Eau
 item.Moon Stone.name=Pierre Lune
 item.Thunder Stone.name=Pierre Foudre
 item.Leaf Stone.name=Pierre Feuille 
-
+item.Dusk Stone.name=Pierre Nuit
+item.Dawn Stone.name=Pierre Aube
 item.Thunder Stone Shard.name=Éclat de Pierre Foudre
 item.Leaf Stone Shard.name=Éclat de Pierre Feuille
 item.Water Stone Shard.name=Éclat de Pierre Eau
 item.Fire Stone Shard.name=Éclat de Pierre Feu
 item.Sun Stone Shard.name=Éclat de Pierre Soleil
-
+item.Dusk Stone Shard.name=Éclat de Pierre Nuit
+item.Dawn Stone Shard.name=Éclat de Pierre Aube
 item.Ever Stone.name=Pierre Stase
 item.Lucky Egg.name=Oeuf Chance
 item.Exp. Share.name=Multi exp.
 item.Choice Band.name=Bandeau Choix
 item.Choice Scarf.name=Mouchoir Choix
 item.Choice Specs.name=Lunettes Choix
-
+item.MuscleBand.name=Bandeau Muscle
 item.Macho Brace.name=Bracelet Macho
 item.Power Weight.name=Poids Pouvoir
 item.Power Bracer.name=Poignet Pouvoir
@@ -347,11 +350,9 @@ item.Power Lens.name=Lentille Pouvoir
 item.Power Belt.name=Ceinture Pouvoir
 item.Power Band.name=Bandeau Pouvoir
 item.Power Anklet.name=Chaine Pouvoir
-
 item.Oran Berry.name=Baie Oran
 item.Rawst Berry.name=Baie Fraive
 item.Leppa Berry.name=Baie Mepo
-
 item.Soothe Bell.name=Grelot Zen
 item.Smoke Ball.name=Boule Fumée
 item.WideLens.name=Loupe
@@ -366,7 +367,6 @@ item.King's Rock.name=Roche Royale
 item.Protector.name=Protecteur
 item.Up-Grade.name=Améliorator
 item.Razor Fang.name=Croc Rasoir
-
 item.Dragon Scale.name=Écaille Draco
 item.Absorb Bulb.name=Bulbe
 item.Life Orb.name=Orbe Vie
@@ -375,6 +375,11 @@ item.FocusBand.name=Bandeau
 item.ToxicOrb.name=Orbe Toxic
 item.FlameOrb.name=Orbe Flamme
 item.BlackSludge.name=Boue Noire
+item.EjectButton.name=Bouton Fuite
+item.LaggingTail.name=Ralentiqueue
+item.ScopeLens.name=Lentilscope
+item.AirBalloon.name=Ballon
+item.RockyHelmet.name=Casque Bruit
 item.ShedShell.name=Carapace Mue
 item.DampRock.name=Roche Humide
 item.HeatRock.name=Roche Chaude
@@ -387,15 +392,28 @@ item.MetalPowder.name=Poudre Métal
 item.QuickPowder.name=Poudre Vite
 item.Stick.name=Bâton
 item.ThickClub.name=Masse Os
-
-item.X Attack.name=Attaque +
-item.X Defence.name=Défense +
-item.X SpecialAttack.name=Attaque Spé +
-item.X SpecialDefence.name=Défense Spé +
-item.X Speed.name=Vitesse +
-item.X Accuracy.name=Précision +
+item.PowerHerb.name=Herbe Pouvoir
+item.RedCard.name=Carte Rouge
+item.ExpertBelt.name=Ceinture Pro
+item.LightClay.name=Lumargile
+item.MentalHerb.name=Herbe Mental
+item.StickyBarb.name=Piquants
+item.QuickClaw.name=Vive Griffe
+item.WhiteHerb.name=Herbeblanche
+item.BigRoot.name=Grosseracine
+item.WiseGlasses.name=Lunettes Sages
+item.ZoomLens.name=Lentille Zoom
+item.BrightPowder.name=Poudre Claire
+item.GinemaBerry.name=Baie Ginema
+item.JabocaBerry.name=Baie Jaboca
+item.RowapBerry.name=Baie Pommo
+item.XAttack.name=Attaque +
+item.XDefence.name=Défense +
+item.XSpecialAttack.name=Attaque Spé +
+item.XSpecialDefence.name=Défense Spé +
+item.XSpeed.name=Vitesse +
+item.XAccuracy.name=Précision +
 item.Dire Hit.name=Muscle +
-
 item.Full Incense.name=Encens Plein
 item.Lax Incense.name=Encens Doux
 item.Luck Incense.name=Encens Veine
@@ -405,7 +423,6 @@ item.Rock Incense.name=Encens Roc
 item.Rose Incense.name=Encens Fleur
 item.Sea Incense.name=Encens Mer
 item.Wave Incense.name=Encens Vague
-
 item.Bug Gem.name=Joyau Insecte
 item.Dark Gem.name=Joyau Ténèbres
 item.Dragon Gem.name=Joyau Dragon
@@ -424,7 +441,6 @@ item.Rock Gem.name=Joyau Roc
 item.Steel Gem.name=Joyau Acier
 item.Water Gem.name=Joyau Eau
 item.Fairy Gem.name=Joyau Fée
-
 item.Bug Gem.special=Joyau Insecte Sacré
 item.Dark Gem.special=Joyau Ténèbres Sacré
 item.Dragon Gem.special=Joyau Dragon Sacré
@@ -443,14 +459,13 @@ item.Rock Gem.special=Joyau Roc Sacré
 item.Steel Gem.special=Joyau Acier Sacré
 item.Water Gem.special=Joyau Eau Sacré
 item.Fairy Gem.special=Joyau Fée Sacré
-
 item.BlackBelt.name=Ceinture Noire
 item.BlackGlasses.name=Lunettes Noires
 item.Charcoal.name=Charbon
 item.DragonFang.name=Croc Dragon
 item.HardStone.name=Pierre Dure
 item.Magnet.name=Aimant
-item.MetalCoat.name=Peau Métal
+item.Metal Coat.name=Peau Métal
 item.MiracleSeed.name=Graine Miracle
 item.MysticWater.name=Eau Mystique
 item.NeverMeltIce.name=Glace Éternelle
@@ -462,12 +477,10 @@ item.SoftSand.name=Sable Doux
 item.SpellTag.name=Rune Sort
 item.TwistedSpoon.name=Cuiller Tordue
 item.destinyKnot.name=Nœud Destin
-
 item.chisel.name=Cisaille
 item.ranchupgrade.name=Amélioration de Ranch
 item.hourglassgold.name=Sablier en Or d'Isi
 item.hourglasssilver.name=Sablier en Argent d'Isi
-
 item.TM1 - Hone Claws.name= CT1: Aiguisage
 item.TM1 - Wide Guard.name= CT1: Garde Large
 item.TM2 - Dragon Claw.name= CT2: Dracogriffe
@@ -574,7 +587,6 @@ item.HM7 - Waterfall.name= CS7: Cascade
 item.HM8 - Rock Climb.name= CS8: Escalade
 item.HM9 - Whirlpool.name= CS9: Siphon
 item.HM10 - Dive.name= CS10: Plongée
-
 item.PokeMail-air.name=Lettre Avion
 item.PokeMail-bloom.name=Lettre Pétale
 item.PokeMail-brick.name=Lettre Brik
@@ -610,7 +622,6 @@ item.PokeMail-tropic.name=Lettre Tropi
 item.PokeMail-tunnel.name=Lettre Mine
 item.PokeMail-wave.name=Lettre Vague
 item.PokeMail-wood.name=Lettre Bois
-
 item.Tree.name=Arbre
 item.ClothedTable.name=Table
 item.TV.name=Télévision
@@ -758,7 +769,57 @@ item.DawnstoneLegs.name=Jambières en Pierre Aube
 item.DawnstoneBoots.name=Bottes en Pierre Aube
 item.PicketFence.name=Palissade
 item.pokeGift.name=Poké Cadeau
-
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
+item..name
 itemGroup.tabPokeLoot=PokéButin
 itemGroup.Pokeballs=Pokeballs
 itemGroup.Badges=Badges
@@ -4687,6 +4748,20 @@ gui.trainereditor.growth=Taille
 gui.trainereditor.gender=Genre
 gui.trainereditor.partypokemon=Équipe Pokémon
 
+gui.npceditor.despawn=Despawn
+gui.npceditor.page1=Page 1
+gui.npceditor.page2=Page 2
+gui.npceditor.page3=Page 3
+gui.npceditor.page4=Page 4
+
+gui.chooseNPC.trainer=Créer un PNJ Dresseur
+gui.chooseNPC.chatting=Créer un PNJ Dresseur parlant
+gui.npceditor.despawn=Supprimer le PNJ
+gui.npceditor.page1=Texte 1
+gui.npceditor.page2=Texte 2
+gui.npceditor.page3=Texte 3
+gui.npceditor.page4=Texte 4
+
 gui.tradereditor.shiny=Sh
 gui.tradereditor.level=Lvl.
 gui.tradereditor.offer=Offre:
@@ -4871,6 +4946,8 @@ trainer.model.firebreather3=Homme de Feu
 trainer.model.firebreather4=Team Magma
 trainer.model.firebreather5=Chauve Souris Enflamée
 
+npc.model.npcchat1=Vieil Homme
+
 container.MechanicalAnvil=Enclume Mécanique
 
 attack.category.physical=Physique
@@ -5000,7 +5077,7 @@ tile.healer.name=Soigneur
 tile.fossil cleaner.name=Nettoyeur de Fossile
 tile.fossil machine.name=Machine à Fossile
 tile.cloning machine.name=Machine de Clonage
-tile.bauxite ore.name=Minerai de Bauxite
+tile.bauxiteOre.name=Minerai de Bauxite
 tile.Fire Stone Ore.name=Minerai de Pierre Feu
 tile.Water Stone Ore.name=Minerai de Pierre Eau
 tile.Leaf Stone Ore.name=Minerai de Pierre Feuille
@@ -5015,6 +5092,11 @@ tile.fossil.name=Fossile
 tile.uno shrine.name=Totem de Glace
 tile.dos shrine.name=Totem Électrique
 tile.tres shrine.name=Totem de Flamme
+tile.apricorn tree.name=Noigrumier
+tile.mechanicalanvil.name=Enclume Mécanique
+tile.ranchblock.name=Ranch Block
+tile.leafstoneore_overlay.name=Minerai de Pierre Feuille
+tile.null.name=Plaque de pression invisible 
 tile.unownblock_1.A.name=Zarbi A
 tile.unownblock_1.B.name=Zarbi B
 tile.unownblock_1.C.name=Zarbi C
@@ -5052,7 +5134,7 @@ tile.templePillar.name=Pilier de Temple
 tile.hiddenCube.name=Cubé Invisible
 tile.hiddenIronDoor.name=Porte en Fer Invisible
 tile.hiddenWoodenDoor.name=Porte en Bois Invisible
-tile.DawnDusk Ore.name=Minerai de Pierre Aube
+tile.DawnDusk Ore.name=Minerai de Pierre Aube/Nuit
 tile.templePillar.Pillar.name=Pilier de Temple
 tile.templePillar.BrokenPillar.name=Pilier de Temple cassé
 tile.PokeGift.name=Poké Cadeau
@@ -5092,7 +5174,7 @@ Window2.name=Fenêtre 2
 SandyGrass.name=Herbe Sablonneuse
 Rock.name=Rocher
 CaveRock.name=Rocher de Grotte
-BridgeBlock.name=Bridge Block
+BridgeBlock.name=Bloc de Pont
 Bolder.name=Rocher
 Box.name=Boîte
 RedCushionChair.name=Coussin Rouge
